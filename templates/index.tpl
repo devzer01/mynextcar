@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+{literal}
 <html>
 <head>
 <title>My Next Car</title>
@@ -410,3 +411,4 @@
 
 </div> <!-- outer #end -->
 </body></html>
+{/literal}
