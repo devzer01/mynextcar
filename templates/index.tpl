@@ -180,7 +180,7 @@
 	<option value="" selected="selected"></option>
   	    </select>
      	</label>
-       	<input name="search" type="submit" class="b_searchcar" value="BusSearch"/> 
+       	<input name="search" type="submit" class="b_searchcar" value="Car Search"/> 
     </div> <!--search car #end -->
    </form>
     <script type="text/javascript">var SITE_URL_PATH='http://mynextcar.lk'</script>
