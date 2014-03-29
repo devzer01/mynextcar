@@ -3,6 +3,7 @@
 <head>
 <title>My Next Car</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="google-site-verification" content="P8PlQreQ7UeleRhQbPKrPjZ0-zMEyW-jsR8rRSGolow" />
 <meta name="keywords" content="used car sale sri lanka"/>
 <link rel="stylesheet" type="text/css" href="css/style.css" media="screen"/>
 <link href="css/slimbox.css" rel="stylesheet" type="text/css"/>
